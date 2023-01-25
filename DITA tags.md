@@ -40,8 +40,10 @@ conref to reference content
 <critdates> (critical dates, such as <created> and <revised>)
 <copyright> (copyright year <copyryear>, and copyright holder <copyrholder>)
 <vrm> (product version, release, and modification information)
+```
 
 # STRICT TASK TOPIC
+```
 <taskbody> (the body of the task topic)
 <steps> (the sequence of actions)
 <step> (each individual action)
