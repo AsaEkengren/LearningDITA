@@ -1,3 +1,5 @@
+# COMMON
+```
 <conbody> (the body of the concept topic)
 <p> (a paragraph)
 <ul> (an unordered or bulleted list)
@@ -14,8 +16,10 @@
 	
 conref to reference content
 	<note conref="location.dita#topicid/whatduckslike"/>
+```
 
-//TABLES//
+# TABLES
+```
 <simpletable>
 	<sthead> header row
 	<strow> body row
@@ -28,14 +32,15 @@ conref to reference content
 	<tbody> table body rows
 	<row> single row
 	<entry> data for table cell
+```
 
-//PROLOG ELEMENTS//
+# PROLOG ELEMENTS
 <author> (the content author)
 <critdates> (critical dates, such as <created> and <revised>)
 <copyright> (copyright year <copyryear>, and copyright holder <copyrholder>)
 <vrm> (product version, release, and modification information)
 
-//STRICT TASK TOPIC//
+# STRICT TASK TOPIC
 <taskbody> (the body of the task topic)
 <steps> (the sequence of actions)
 <step> (each individual action)
@@ -45,7 +50,7 @@ conref to reference content
 	<stepxmp> (an example of how to do the step)
 <example> (an example of how to do the entire task)
 
-//REFERENCE TOPIC//
+# REFERENCE TOPIC
 <refbody> (the body of the reference topic)
 <section> (a subdivision in the reference topic, with an optional title)
 <table> (a table)
@@ -53,12 +58,12 @@ conref to reference content
 <properties> (a list of properies)
 <refsyn> (a syntax diagram)
 
-//GLOSSARY TOPIC//
+# GLOSSARY TOPIC
 <glossentry> (the glossary entry topic type)
 <glossterm> (the word or phrase)
 <glossdef> (the definition of the glossary term)
 
-//NOTE TYPES//
+# NOTE TYPES
 <note>
 <attention>
 <danger>
