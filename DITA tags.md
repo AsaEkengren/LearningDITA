@@ -1,4 +1,4 @@
-# COMMON
+# COMMON :triangular_flag_on_post:
 ```
 <conbody> (the body of the concept topic)
 <p> (a paragraph)
@@ -18,7 +18,7 @@ conref to reference content
 	<note conref="location.dita#topicid/whatduckslike"/>
 ```
 
-# TABLES
+# TABLES :triangular_flag_on_post:
 ```
 <simpletable>
 	<sthead> header row
@@ -34,7 +34,7 @@ conref to reference content
 	<entry> data for table cell
 ```
 
-# PROLOG ELEMENTS
+# PROLOG ELEMENTS :triangular_flag_on_post:
 ```
 <author> (the content author)
 <critdates> (critical dates, such as <created> and <revised>)
@@ -52,7 +52,7 @@ conref to reference content
 <example> (an example of how to do the entire task)
 ```
 
-# REFERENCE TOPIC
+# REFERENCE TOPIC :triangular_flag_on_post:
 ```
 <refbody> (the body of the reference topic)
 <section> (a subdivision in the reference topic, with an optional title)
@@ -62,14 +62,14 @@ conref to reference content
 <refsyn> (a syntax diagram)
 ```
 
-# GLOSSARY TOPIC
+# GLOSSARY TOPIC :triangular_flag_on_post:
 ```
 <glossentry> (the glossary entry topic type)
 <glossterm> (the word or phrase)
 <glossdef> (the definition of the glossary term)
 ```
 
-# NOTE TYPES
+# NOTE TYPES :triangular_flag_on_post:
 ```
 <note>
 <attention>
