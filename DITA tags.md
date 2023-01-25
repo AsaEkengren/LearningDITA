@@ -35,6 +35,7 @@ conref to reference content
 ```
 
 # PROLOG ELEMENTS
+```
 <author> (the content author)
 <critdates> (critical dates, such as <created> and <revised>)
 <copyright> (copyright year <copyryear>, and copyright holder <copyrholder>)
@@ -49,24 +50,31 @@ conref to reference content
 	<stepresult> (what happens after performing an action)
 	<stepxmp> (an example of how to do the step)
 <example> (an example of how to do the entire task)
+```
 
 # REFERENCE TOPIC
+```
 <refbody> (the body of the reference topic)
 <section> (a subdivision in the reference topic, with an optional title)
 <table> (a table)
 <fig> (a figure, including an optional title)
 <properties> (a list of properies)
 <refsyn> (a syntax diagram)
+```
 
 # GLOSSARY TOPIC
+```
 <glossentry> (the glossary entry topic type)
 <glossterm> (the word or phrase)
 <glossdef> (the definition of the glossary term)
+```
 
 # NOTE TYPES
+```
 <note>
 <attention>
 <danger>
 <caution>
 <important>
 <tip>
+```
